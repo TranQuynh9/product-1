@@ -1,0 +1,114 @@
+{% extends "base.html" %}
+{% block title %}Homepage{% endblock %}
+{% block main %} 
+<h6 style="text-align: left">JOBS FROM GITHUB</h6>
+<div class="float-left" style="">
+    <em>Update at: {{time}}</em>
+    <div class="tab-content" id="nav-jobsContent">
+    {% for page in range(1, jobs_page["amount"] + 1 ) %}
+        {% if page == 1 %}
+        <div class="tab-pane fade show active" id="nav-page-{{ page }}" role="tabpanel" aria-labelledby="nav-page-{{ page }}-tab">
+        {% else  %}
+        <div class="tab-pane fade" id="nav-page-{{ page }}" role="tabpanel" aria-labelledby="nav-page-{{ page }}-tab">
+        {% endif %}
+            {% if page != jobs_page["amount"] %}
+            <ul class="no-bullets">
+                {% for index in range((page - 1 ) * 20, page * 20) %}
+                <li><a style="color: black;" href="{{jobs[index][1]}}">{{jobs[index][0]}}</a></li>
+                {% endfor %}
+            </ul>
+            {% else  %}
+            <ul class="no-bullets">
+                {% for index in range((page - 1 ) * 20, jobs_page["len"]) %}
+                <li><a style="color: black;" href="{{jobs[index][1]}}">{{jobs[index][0]}}</a></li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </div>
+    {% endfor %}
+    </div>
+    <nav>
+        <div class="nav nav-tabs" id="nav-jobs-tab" role="tablist">
+        {% for page in range(1, jobs_page["amount"] + 1 ) %}
+            {% if page == 1 %}
+            <a class="nav-link active" id="nav-page-{{ page }}" data-toggle="tab" href="#nav-page-{{ page }}" role="tab" aria-controls="nav-page-{{ page }}" aria-selected="true">{{ page }}</a>
+            {% else  %}
+            <a class="nav-link" id="nav-page-{{ page }}" data-toggle="tab" href="#nav-page-{{ page }}" role="tab" aria-controls="nav-page-{{ page }}" aria-selected="false">{{ page }}</a>
+            {% endif %}
+        {% endfor %}
+        </div>
+    </nav>
+</div>
+
+<div class="float-right">
+    <h6 style="text-align: center">Posts from FAMILUG.ORG</h6>
+    <div class="sidebar" style="font-size: 85%; color: black;">
+        <div class="nav nav-tabs" id="nav-tab" role="tablist" >
+            <a class="nav-link active" id="nav-lastest-tab" data-toggle="tab" href="#nav-lastest" role="tab" aria-controls="nav-lastest" aria-selected="true">LASTEST</a>
+            <a class="nav-link" id="nav-python-tab" data-toggle="tab" href="#nav-python" role="tab" aria-controls="nav-python" aria-selected="false">PYTHON</a>
+            <a class="nav-link" id="nav-command-tab" data-toggle="tab" href="#nav-command" role="tab" aria-controls="nav-command" aria-selected="false">COMMAND</a>
+            <a class="nav-link" id="nav-sysadmin-tab" data-toggle="tab" href="#nav-sysadmin" role="tab" aria-controls="nav-sysadmin" aria-selected="false">SYSADMIN</a>
+        </div>
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active" id="nav-lastest" role="tabpanel" aria-labelledby="nav-lastest-tab">
+                <div class="modal-dialog-scrollable sidebar" style="overflow: scroll">
+                    <ul class="no-bullets">
+                        {% for link in posts["Lastest"] %}
+                        <li>{{link|safe}}</li>
+                        {% endfor %}
+                    </ul>
+                </div> 
+            </div>
+            <div class="tab-pane fade" id="nav-python" role="tabpanel" aria-labelledby="nav-python-tab">
+                <div class="modal-dialog-scrollable sidebar" style="overflow: scroll">
+                    <ul class="no-bullets">
+                        {% for link in posts["Python"] %}
+                            <li>{{link|safe}}</li>
+                        {% endfor %}
+                    </ul>                    
+                </div>
+            </div>
+            <div class="tab-pane fade" id="nav-command" role="tabpanel" aria-labelledby="nav-command-tab">
+                <div class="modal-dialog-scrollable sidebar" style="overflow: scroll">
+                    <ul class="no-bullets">
+                        {% for link in posts["Command"] %}
+                            <li>{{link|safe}}</li>
+                        {% endfor %}
+                    </ul>  
+                </div>
+            </div>
+            <div class="tab-pane fade" id="nav-sysadmin" role="tabpanel" aria-labelledby="nav-sysadmin-tab">
+                <div class="modal-dialog-scrollable sidebar" style="overflow: scroll">
+                    <ul class="no-bullets">
+                        {% for link in posts["sysadmin"] %}
+                            <li>{{link|safe}}</li>
+                        {% endfor %}
+                    </ul>  
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div class="card" style="width: 400px;">
+        <h6 style="text-align: center">LOTTO WINNING CHECKING</h6>
+        <p style="color: red;">{{checked_result}}</p>
+        <form action="/" METHOD="POST">
+            <div class="form-group">
+                <input type="text" class="form-control" name="check_number" placeholder="Enter multiple numbers separated with a space">
+            </div>
+            <button type="submit" class="btn btn-primary btn-sm float-right">Check Result</button>
+
+            <small class="form-text text-muted">Kiểm tra bạn có trúng lô-tô.</small>
+            <br>
+        </form>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block script %}{% endblock %}
+
+
+

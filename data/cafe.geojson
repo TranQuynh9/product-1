@@ -1,0 +1,1422 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82177,
+                    21.01269
+                ]
+            },
+            "properties": {
+                "name": "F5 Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82172,
+                    21.01278
+                ]
+            },
+            "properties": {
+                "name": "C\u1ed1 Nh\u00e2n Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82213,
+                    21.01323
+                ]
+            },
+            "properties": {
+                "name": "Pari Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82125,
+                    21.01225
+                ]
+            },
+            "properties": {
+                "name": "C\u00e0 Ph\u00ea Tr\u1ea7n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82125,
+                    21.01225
+                ]
+            },
+            "properties": {
+                "name": "Cafe Tr\u1ea7m"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.821,
+                    21.01224
+                ]
+            },
+            "properties": {
+                "name": "Highland Cofe- Royal City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.821,
+                    21.01224
+                ]
+            },
+            "properties": {
+                "name": "The Coffee House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82123,
+                    21.01199
+                ]
+            },
+            "properties": {
+                "name": "H\u01b0\u01a1ng Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82125,
+                    21.01197
+                ]
+            },
+            "properties": {
+                "name": "Cafe 97"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82097,
+                    21.01227
+                ]
+            },
+            "properties": {
+                "name": "Cafe Phim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82136,
+                    21.01186
+                ]
+            },
+            "properties": {
+                "name": "H\u1ed3ng Hoa Tr\u01b0\u1eddng L\u1ea1c - Tr\u00e0 S\u1eefa Tr\u00e2n Ch\u00e2u \u0110\u00e0i Loan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82111,
+                    21.01349
+                ]
+            },
+            "properties": {
+                "name": "Cafe Vi\u1ec7t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82152,
+                    21.01169
+                ]
+            },
+            "properties": {
+                "name": "Heekcaa By Heytea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82089,
+                    21.01185
+                ]
+            },
+            "properties": {
+                "name": "H\u01b0\u01a1ng Cafe - Trung Li\u1ec7t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8232,
+                    21.01274
+                ]
+            },
+            "properties": {
+                "name": "Cafe 127"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82148,
+                    21.01147
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n Cafe T\u1ed5 Ch\u1ee9c Offline, T\u1ed5 Ch\u1ee9c Sinh Nh\u1eadt, S\u1ef1 Ki\u1ec7n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82322,
+                    21.01272
+                ]
+            },
+            "properties": {
+                "name": "C\u00e0f\u00ea Trung Nguy\u00ean"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82336,
+                    21.01271
+                ]
+            },
+            "properties": {
+                "name": "Cafe Nh\u1edb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82025,
+                    21.01291
+                ]
+            },
+            "properties": {
+                "name": "C\u00e0 Ph\u00ea Talk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82198,
+                    21.01119
+                ]
+            },
+            "properties": {
+                "name": "N\u00e9t Hu\u1ebf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82198,
+                    21.01119
+                ]
+            },
+            "properties": {
+                "name": "Yi He Tang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82346,
+                    21.01245
+                ]
+            },
+            "properties": {
+                "name": "Cafe Film 3D Box"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82009,
+                    21.01257
+                ]
+            },
+            "properties": {
+                "name": "Ch\u00e9rie Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82359,
+                    21.01231
+                ]
+            },
+            "properties": {
+                "name": "Bin Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82222,
+                    21.01095
+                ]
+            },
+            "properties": {
+                "name": "Goky Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82222,
+                    21.01095
+                ]
+            },
+            "properties": {
+                "name": "Cafe Nh\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82055,
+                    21.01137
+                ]
+            },
+            "properties": {
+                "name": "Tr\u00e0 Thi\u00ean S\u01a1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82195,
+                    21.0109
+                ]
+            },
+            "properties": {
+                "name": "Skyline Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8199,
+                    21.01296
+                ]
+            },
+            "properties": {
+                "name": "Trung Nguy\u00ean Legend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82374,
+                    21.01214
+                ]
+            },
+            "properties": {
+                "name": "C\u00f4 Quy\u00ean Qu\u00e1n Tr\u00e0 Xanh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8214,
+                    21.01453
+                ]
+            },
+            "properties": {
+                "name": "Sapa Caf\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82065,
+                    21.01422
+                ]
+            },
+            "properties": {
+                "name": "B\u1ed1t Caf\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81996,
+                    21.01204
+                ]
+            },
+            "properties": {
+                "name": "Cafe Nh\u1edb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82122,
+                    21.01451
+                ]
+            },
+            "properties": {
+                "name": "Cafe Holy Land Rock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81985,
+                    21.01325
+                ]
+            },
+            "properties": {
+                "name": "M\u1ed9c Xu\u00e2n Tr\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82058,
+                    21.01425
+                ]
+            },
+            "properties": {
+                "name": "H\u01b0\u01a1ng Linh Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81982,
+                    21.01322
+                ]
+            },
+            "properties": {
+                "name": "Aha Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81982,
+                    21.01322
+                ]
+            },
+            "properties": {
+                "name": "Feeling Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81982,
+                    21.01322
+                ]
+            },
+            "properties": {
+                "name": "My Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82129,
+                    21.0146
+                ]
+            },
+            "properties": {
+                "name": "Shimizu Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82037,
+                    21.01117
+                ]
+            },
+            "properties": {
+                "name": "Cafe Huy Anh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82392,
+                    21.01195
+                ]
+            },
+            "properties": {
+                "name": "Bin Coffee 3D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82249,
+                    21.01066
+                ]
+            },
+            "properties": {
+                "name": "An An Gelato"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82254,
+                    21.01061
+                ]
+            },
+            "properties": {
+                "name": "Royaltea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82344,
+                    21.01435
+                ]
+            },
+            "properties": {
+                "name": "V\u00f4 \u01afu Tr\u00e0 Qu\u00e1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82257,
+                    21.01058
+                ]
+            },
+            "properties": {
+                "name": "Coffee 46"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82366,
+                    21.01418
+                ]
+            },
+            "properties": {
+                "name": "Lung Caf\u00e9 - 71 Tr\u1ea7n Quang Di\u1ec7u"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82109,
+                    21.01488
+                ]
+            },
+            "properties": {
+                "name": "Cafe Quy\u1ebft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81937,
+                    21.01291
+                ]
+            },
+            "properties": {
+                "name": "Cafe Ph\u1ed1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81937,
+                    21.01291
+                ]
+            },
+            "properties": {
+                "name": "Deli Beefsteak, Coffee & Tea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82126,
+                    21.01045
+                ]
+            },
+            "properties": {
+                "name": "Backyard Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82011,
+                    21.01103
+                ]
+            },
+            "properties": {
+                "name": "Cafe Qu\u1ef3nh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82413,
+                    21.01172
+                ]
+            },
+            "properties": {
+                "name": "1988 Kitchen B\u00e1nh M\u1ef3-N\u01b0\u1edbc \u00c9p Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82356,
+                    21.01444
+                ]
+            },
+            "properties": {
+                "name": "Kim Li\u00ean L\u00e0ng C\u1eaft T\u00f3c Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8236,
+                    21.01447
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8236,
+                    21.01447
+                ]
+            },
+            "properties": {
+                "name": "Thanh Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82417,
+                    21.01167
+                ]
+            },
+            "properties": {
+                "name": "Cafe 69"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82417,
+                    21.01167
+                ]
+            },
+            "properties": {
+                "name": "Cafe G\u00f2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82306,
+                    21.01486
+                ]
+            },
+            "properties": {
+                "name": "Dzyn Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81939,
+                    21.01355
+                ]
+            },
+            "properties": {
+                "name": "Garden Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82277,
+                    21.01038
+                ]
+            },
+            "properties": {
+                "name": "DING TEA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82367,
+                    21.01453
+                ]
+            },
+            "properties": {
+                "name": "Cafe Xa Hoi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82331,
+                    21.01481
+                ]
+            },
+            "properties": {
+                "name": "B\u1ed1ng Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82388,
+                    21.01436
+                ]
+            },
+            "properties": {
+                "name": "Tungbook Caf\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8236,
+                    21.01465
+                ]
+            },
+            "properties": {
+                "name": "Th\u01a1m Caf\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8191,
+                    21.01261
+                ]
+            },
+            "properties": {
+                "name": "Vita Juice Bar Th\u00e1i H\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82432,
+                    21.0115
+                ]
+            },
+            "properties": {
+                "name": "Trang Cafe - \u0110\u1eb7ng Ti\u1ebfn \u0110\u00f4ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81906,
+                    21.01238
+                ]
+            },
+            "properties": {
+                "name": "C\u1ed1i Xay Gi\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82187,
+                    21.01007
+                ]
+            },
+            "properties": {
+                "name": "G\u00e0 Ph\u00ea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81897,
+                    21.01285
+                ]
+            },
+            "properties": {
+                "name": "NO15 Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82382,
+                    21.01466
+                ]
+            },
+            "properties": {
+                "name": "C\u00e0 Ph\u00ea Trung Nguy\u00ean Kh\u01a1i Ngu\u1ed3n S\u00e1ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82382,
+                    21.01466
+                ]
+            },
+            "properties": {
+                "name": "Tmore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81891,
+                    21.0127
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n Caf\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81965,
+                    21.01455
+                ]
+            },
+            "properties": {
+                "name": "Maica Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82284,
+                    21.01012
+                ]
+            },
+            "properties": {
+                "name": "Cafe Sun Way"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82284,
+                    21.01012
+                ]
+            },
+            "properties": {
+                "name": "Cafe Minh Anh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82396,
+                    21.01466
+                ]
+            },
+            "properties": {
+                "name": "C\u1ea7n T\u0103ng D\u00e2n S\u1ed1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82396,
+                    21.01466
+                ]
+            },
+            "properties": {
+                "name": "Best Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82446,
+                    21.01135
+                ]
+            },
+            "properties": {
+                "name": "Cafe Trang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.819,
+                    21.01363
+                ]
+            },
+            "properties": {
+                "name": "Tu\u1ea5n CD Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82436,
+                    21.01434
+                ]
+            },
+            "properties": {
+                "name": "Lung Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82022,
+                    21.01518
+                ]
+            },
+            "properties": {
+                "name": "Cafe Lu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82318,
+                    21.01006
+                ]
+            },
+            "properties": {
+                "name": "Chao Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82192,
+                    21.00978
+                ]
+            },
+            "properties": {
+                "name": "G\u00e0 Ph\u00ea - Coffee & Workshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82456,
+                    21.01124
+                ]
+            },
+            "properties": {
+                "name": "M\u1ed9c Hoa Tr\u00e0 - T\u00e2y S\u01a1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82402,
+                    21.01488
+                ]
+            },
+            "properties": {
+                "name": "Cafe Moon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8241,
+                    21.01488
+                ]
+            },
+            "properties": {
+                "name": "Qu\u00e1n Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81959,
+                    21.01051
+                ]
+            },
+            "properties": {
+                "name": "Cafe Trang Th\u00fay Li\u1ec5u"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81859,
+                    21.01247
+                ]
+            },
+            "properties": {
+                "name": "Coffee & Food Amazon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8233,
+                    21.00996
+                ]
+            },
+            "properties": {
+                "name": "C\u1ed9ng C\u00e0 Ph\u00ea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82467,
+                    21.01111
+                ]
+            },
+            "properties": {
+                "name": "Oriberry - 25 \u0110\u1eb7ng Ti\u1ebfn \u0110\u00f4ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81874,
+                    21.01387
+                ]
+            },
+            "properties": {
+                "name": "Cafe Sinh T\u1ed1 Lan Anh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82379,
+                    21.0153
+                ]
+            },
+            "properties": {
+                "name": "Cafe Qu\u1ef3nh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81938,
+                    21.01053
+                ]
+            },
+            "properties": {
+                "name": "C\u00e2y D\u1eeba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81943,
+                    21.01046
+                ]
+            },
+            "properties": {
+                "name": "Tiem Ca Phe Chu Tanh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81965,
+                    21.01019
+                ]
+            },
+            "properties": {
+                "name": "Ti\u1ec7m Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81849,
+                    21.01359
+                ]
+            },
+            "properties": {
+                "name": "T\u1ed9c C\u00e0 Ph\u00ea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81968,
+                    21.01016
+                ]
+            },
+            "properties": {
+                "name": "Atk Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81881,
+                    21.0111
+                ]
+            },
+            "properties": {
+                "name": "Cafe Anh V\u0169"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82424,
+                    21.01511
+                ]
+            },
+            "properties": {
+                "name": "Cafe 9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81924,
+                    21.01048
+                ]
+            },
+            "properties": {
+                "name": "Pony Coffee & Tea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81856,
+                    21.01137
+                ]
+            },
+            "properties": {
+                "name": "Linh Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82226,
+                    21.00928
+                ]
+            },
+            "properties": {
+                "name": "Love Box Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82424,
+                    21.01511
+                ]
+            },
+            "properties": {
+                "name": "Hitra Lemon Tea & Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82424,
+                    21.01511
+                ]
+            },
+            "properties": {
+                "name": "Cafe 61"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82355,
+                    21.01567
+                ]
+            },
+            "properties": {
+                "name": "B\u1ed1t C\u00e0 Ph\u00ea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82103,
+                    21.01606
+                ]
+            },
+            "properties": {
+                "name": "The Garden Kafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81826,
+                    21.01246
+                ]
+            },
+            "properties": {
+                "name": "Cafe Wifi C\u01a1m V\u0103n Ph\u00f2ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.82515,
+                    21.01406
+                ]
+            },
+            "properties": {
+                "name": "Culaccino Cafe"
+            }
+        }
+    ]
+}

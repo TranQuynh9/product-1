@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}Map{% endblock %}
+
+
+{% block main %}
+<h5>Coffe around Pymi class</h5>
+<div id="map" style="height: 450px;"></div>
+{% endblock %}
+
+
+{% block script %}
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+<script>
+    var map = L.map('map').setView([21.012711, 105.821844], 17);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    L.geoJson({{points|safe}}).bindPopup(function (layer) {
+        return layer.feature.properties.name;
+    }).addTo(map);
+
+    L.marker([21.012711, 105.821844]).addTo(map).bindPopup("<a href=\"https://pymi.vn/\">pymi.vn</a><br>Số 9 Trung Liệt").openPopup();
+</script>
+{% endblock %}

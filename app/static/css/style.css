@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+    padding: 1em;
+    margin: 10px 30px 8px 30px;
+   
+}
+
+ul.no-bullets {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0 0 10px ;
+}
+
+li{
+    padding-bottom: 5px;
+}
+
+.sidebar{
+    height: 200px;
+    width: 400px;
+}
